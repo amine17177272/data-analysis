@@ -27,7 +27,7 @@ from collections import Counter
 # combined_df.to_csv('learning_ai/pandas_libary/Pandas-Data-Science-Tasks-master/SalesAnalysis/Sales_Data/combined_sales_2019.csv', index=False)
 
 # Read the combined CSV file
-df = pd.read_csv('learning_ai/pandas_libary/Pandas-Data-Science-Tasks-master/SalesAnalysis/Sales_Data/combined_sales_2019.csv')
+df = pd.read_csv('learning_ai/pandas_libary/Pandas-Data-Science-Tasks-master/data-analysis/SalesAnalysis/Sales_Data/combined_sales_2019.csv')
 
 # Data Cleaning
 # Drop rows with NaN values in all columns
